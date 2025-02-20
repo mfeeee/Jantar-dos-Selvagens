@@ -1,4 +1,4 @@
-# Selvagens Comedores
+# Jantar dos Selvagens
 
 Este projeto implementa o problema dos **Selvagens Comedores** usando **threads, mutexes e semáforos** em C. O problema envolve um grupo de selvagens que compartilham um único pote de comida e um cozinheiro responsável por reabastecê-lo quando necessário.
 
